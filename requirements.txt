@@ -1,0 +1,14 @@
+--extra-index-url https://download.pytorch.org/whl/cu116
+torch
+torchvision
+torchaudio
+jupyterlab
+numpy
+matplotlib
+seaborn
+pandas
+tqdm
+scikit-learn
+scipy
+h5py
+
